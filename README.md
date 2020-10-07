@@ -1,3 +1,3 @@
 # PA_Django_project
 
-Site disponivel em http://joaoroberto.pythonanywhere.com/
+Site disponivel em: http://joaoroberto.pythonanywhere.com/
